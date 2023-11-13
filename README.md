@@ -15,6 +15,6 @@ Here you may find Rutronik Adapter Board 1 (RAB1-SENSORFUSION)-related documents
 
 For technical documents such as schematics, PCB layout, etc., please go to this GitHub directory:
 
-https://github.com/RutronikSystemSolutions/RDK4_Hardware_Files
+https://github.com/RutronikSystemSolutions/RAB1-SENSORFUSION_Hardware_Files
 
 
